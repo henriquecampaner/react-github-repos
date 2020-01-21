@@ -1,8 +1,6 @@
 # GitHub Repos
 :octocat: Add GitHub _repos_ and see its details and issues
 
-### [Live Demo](https://luizbatanero-github-react.netlify.com/)
-
 <p align="center">
   <a href="https://luizbatanero-github-react.netlify.com/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
