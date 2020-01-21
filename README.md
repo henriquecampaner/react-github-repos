@@ -19,12 +19,33 @@
 -  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## Running Locally
+## :information_source: How To Use
 
-```sh
-npm install
-npm start
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/henriquecampaner/react-github-repos
+
+# Go into the repository
+$ cd react-github-repos
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
 ```
 
-Runs the app in development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :memo: License
+This project is under the MIT license.
+
+---
+
+Made with ♥ by Henrique Campaner :wave:
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
